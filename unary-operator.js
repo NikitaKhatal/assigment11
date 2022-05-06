@@ -1,0 +1,12 @@
+var num = 10;
+num++;
+console.log(num);
+var num1 = 20;
+num1++;
+console.log(num1);
+var num2 = 30;
+++num2;
+console.log(num);
+var num3 = 40;
+--num3;
+console.log(num3);
